@@ -6,8 +6,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igregorioneto&layout=compact&langs_count=7&theme=highcontrast,"/>
 </div>
   
+##
 <div>
-  <script src="https://tryhackme.com/badge/1120178"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/thegregs.png" alt="TryHackMe">
 </div>
 
 ##
