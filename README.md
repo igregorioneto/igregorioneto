@@ -8,12 +8,16 @@
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Greg-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Greg-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Greg-Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="Greg-React" src="https://shields.io/badge/react-black?logo=react&style=for-the-badge">
-  <img align="center" alt="Greg-NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="Greg-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Greg-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Gregório-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Gregório-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Gregório-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Gregório-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
+  g" />
+  <img align="center" alt="Gregório-Kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
+  <img align="center" alt="Gregório-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Gregório-AmazonWebServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" alt="Gregório-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
+  <img align="center" alt="Gregório-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />
 </div>
   
