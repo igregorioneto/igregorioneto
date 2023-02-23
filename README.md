@@ -9,6 +9,7 @@
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Gregório-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Gregório-Typescript" height="30" width="40" src="cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
   <img align="center" alt="Gregório-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Gregório-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
