@@ -1,5 +1,9 @@
 ### Olá! Eu sou Gregório Neto 👋
 
+- Interesses: Python, Shell Scripts, Linux, Cloud Computing e Cybersecurity.
+          
+<br>
+
 <div>
   <a href="https://github.com/igregorioneto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igregorioneto&show_icons=true&theme=highcontrast,&include_all_commits=true&count_private=true"/>
