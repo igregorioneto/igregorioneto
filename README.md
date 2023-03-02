@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gregório Neto 👋
 
-- Interesses: Python, Java, Linux.
+- Interesses: Programação Backend, Linux e Desenvolvimento de Jogos.
           
 <br>
 
