@@ -1,6 +1,6 @@
 ### Olá! Eu sou Gregório Neto 👋
 
-- Interesses: Python, Shell Scripts, Linux, Cloud Computing e Cybersecurity.
+- Interesses: Python, Java, Linux.
           
 <br>
 
@@ -17,11 +17,11 @@
   <img align="center" alt="Gregório-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Gregório-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Gregório-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
-  <img align="center" alt="Gregório-Kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
-  <img align="center" alt="Gregório-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Gregório-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
+  <img align="center" alt="Gregório-Kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
+  <img align="center" alt="Gregório-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/java.svg" />
   <img align="center" alt="Gregório-AmazonWebServices" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Gregório-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
-  <img align="center" alt="Gregório-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg" />
+  <img align="center" alt="Gregório-GoogleCloud" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
 </div>
   
