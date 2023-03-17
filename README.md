@@ -1,6 +1,6 @@
 ### Hello! I'm Gregório Neto 👋
 
-- Interests: Backend Development, Linux e Game Development.
+- Interests: Frontend Development, Linux e Game Development.
           
 <br>
 
@@ -16,8 +16,6 @@
   <img align="center" alt="Gregório-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
   <img align="center" alt="Gregório-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Gregório-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-          <img align="center" alt="Gregório-Git" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
-          <img align="center" alt="Gregório-Git" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />
           <img align="center" alt="Gregório-Git" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/godotengine.svg" />
   <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Gregório-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
