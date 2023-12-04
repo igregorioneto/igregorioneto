@@ -1,6 +1,6 @@
 ### Hello! I'm Gregório Neto 👋
 
-- Interests: Software Engineer, Linux e Game Development.
+- Interests: Software Engineer and Game Development.
           
 <br>
 
