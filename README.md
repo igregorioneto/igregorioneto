@@ -12,10 +12,8 @@
 
 ##
 <div style="display: inline_block"><br>  
-          <img align="center" alt="Gregório-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
-          <img align="center" alt="Gregório-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
-          <img align="center" alt="Gregório-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
-          <img align="center" alt="Gregório-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
+          <img align="center" alt="Gregório-Android" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
+          <img align="center" alt="Gregório-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
           <img align="center" alt="Gregório-Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
           <img align="center" alt="Gregório-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
           <img align="center" alt="Gregório-Quarkus" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" />
