@@ -12,11 +12,15 @@
 
 ##
 <div style="display: inline_block"><br>  
+          <img align="center" alt="Gregório-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
+          <img align="center" alt="Gregório-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
+          <img align="center" alt="Gregório-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
+          <img align="center" alt="Gregório-Next" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" />
+          <img align="center" alt="Gregório-Nest" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
           <img align="center" alt="Gregório-Android" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
           <img align="center" alt="Gregório-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
           <img align="center" alt="Gregório-Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
           <img align="center" alt="Gregório-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
-          <img align="center" alt="Gregório-Quarkus" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/quarkus.svg" />
   <img align="center" alt="Gregório-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Gregório-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />          
   <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
