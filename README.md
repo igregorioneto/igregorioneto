@@ -1,6 +1,9 @@
 ### Hello! I'm Gregório Neto 👋
 
 - Interests: Software Engineer and Game Development.
+- I Like Java and Dart
+- Alwais in search of knowledge
+- I love programming
           
 <br>
 
