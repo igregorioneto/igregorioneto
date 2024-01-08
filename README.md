@@ -13,7 +13,7 @@
 ##
 <div style="display: inline_block"><br>  
           <img align="center" alt="Gregório-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
-          <img align="center" alt="Gregório-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
+          <img align="center" alt="Gregório-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" />
           <img align="center" alt="Gregório-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
           <img align="center" alt="Gregório-Android" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg" />
           <img align="center" alt="Gregório-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
@@ -25,6 +25,5 @@
   <img align="center" alt="Gregório-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
           <img align="center" alt="Gregório-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
           <img align="center" alt="Gregório-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
-          <img align="center" alt="Gregório-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
 </div>
   
