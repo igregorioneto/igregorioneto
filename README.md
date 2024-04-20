@@ -1,6 +1,6 @@
 ### Hello! I'm Gregório Neto 👋
 
-- Interests: Programming and Linux.
+- Interests: Game Development and Linux.
 - Alwais in search of knowledge
 - I love programming
           
@@ -14,18 +14,11 @@
 
 ##
 <div style="display: inline_block"><br>  
+          <img align="center" alt="Gregório-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
+          <img align="center" alt="Gregório-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />
           <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           <img align="center" alt="Gregório-Python" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-          <img align="center" alt="Gregório-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flask.svg" />
           <img align="center" alt="Gregório-Java" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
           <img align="center" alt="Gregório-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/spring.svg" />
-          <img align="center" alt="Gregório-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-            <img align="center" alt="Gregório-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />     
-          <img align="center" alt="Gregório-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg" />
-          <img align="center" alt="Gregório-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" />
-          <img align="center" alt="Gregório-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
-            <img align="center" alt="Gregório-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
-          <img align="center" alt="Gregório-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
-          <img align="center" alt="Gregório-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
 </div>
   
