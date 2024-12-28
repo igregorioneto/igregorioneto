@@ -17,6 +17,7 @@
           <img align="center" alt="Gregório-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
           <img align="center" alt="Gregório-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
            <img align="center" alt="Gregório-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
+          <img align="center" alt="Gregório-React" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
           <img align="center" alt="Gregório-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
           <img align="center" alt="Gregório-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
           <img align="center" alt="Gregório-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
